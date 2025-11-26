@@ -12,12 +12,12 @@
 ## 🌌 **About Me**
 <div align="center">
 
-🔥 Fullstack Web Developer (Laravel + Vue + Tailwind)  
+🔥 Fullstack Web Developer 
 ✨ Love building clean UI, smart systems, and modern web apps  
-🎓 Informatics Student @ ITSPKU Muhammadiyah  
-🎨 Multimedia enthusiast (Photoshop, Canva, CorelDRAW)  
-📡 Currently building **LAPRAKTA – Public Complaint System**  
-🧪 Final Project: **IoT Sound Detection for Deaf Patients**
+🎓 Informatics Student @ UMPKU Surakarta  
+🎨 Multimedia enthusiast (Photoshop, Canva, CorelDRAW, Capcut)  
+📡 Currently building **SIM Ormawa**, **MySPP**,**ToDoListBreeZe**  
+🧪 IOT Project: **IoT Sound Detection for Deaf Patients**
 
 </div>
 
@@ -76,7 +76,7 @@
 ## 📫 **Contact Me**
 
 <div align="center">
-  📧 **Email:** rimbajati@gmail.com  
+  📧 **Email:** audysa040802@gmail.com  
   <br><br>
   <img src="https://github.com/rafaballerini/rafaballerini/blob/main/gifs/gradient-bar.gif" width="100%" />
 </div>
