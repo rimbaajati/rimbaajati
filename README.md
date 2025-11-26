@@ -1,6 +1,6 @@
 <!-- ✨ CYBERPUNK HEADER -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0affff&size=32&center=true&vCenter=true&width=520&lines=Rimba+Jati;Fullstack+Developer;Cyberpunk+Tech+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=0affff&size=32&center=true&vCenter=true&width=520&lines=Audysa+Rimba+Jati;Fullstack+Developer;" />
 </h1>
 
 <p align="center">
