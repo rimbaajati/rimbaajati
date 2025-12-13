@@ -56,17 +56,6 @@
 
 ---
 
-## 🌌 GitHub Stats
-<p align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=rimbaajati&show_icons=true&theme=tokyonight&hide_border=true" width="46%" />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rimbaajati&theme=tokyonight&hide_border=true" width="46%" />
-
-</p>
-
----
-
 ## 📫 Contact Me
 <p align="center">
   ✉️ <b>audysa040802@gmail.com</b>
