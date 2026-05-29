@@ -41,9 +41,6 @@ focus    : [ Web Systems, UI/UX, IoT Research, Multimedia ]
 
 <div align="center">
 
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=rimbaajati&show_icons=true&hide_border=true&theme=midnight-purple&include_all_commits=true&count_private=true&rank_icon=github&hide=contribs"/>
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rimbaajati&layout=compact&hide_border=true&theme=midnight-purple&langs_count=6"/>
-
 <img src="https://streak-stats.demolab.com?user=rimbaajati&theme=midnight-purple&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly"/>
 
 </div>
@@ -54,6 +51,5 @@ focus    : [ Web Systems, UI/UX, IoT Research, Multimedia ]
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer"/>
 
-*`// Ship clean · Design with purpose · Stay curious`*
 
 </div>
